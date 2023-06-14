@@ -6,6 +6,7 @@
 <p>
 Mục đích của dự án là tạo ra một chương trình có thể quản lý người dự thi. Chương trình được thiết kế để bạn có thể dễ dàng cập nhật danh sách những người dự thi của mình.
 </p>
+
 ### Mô tả dự án
 <ul>
   <li>「Save」: Sau khi nhập thông tin thí sinh và nhấn 「Save」, thông tin sẽ được lưu vào danh sách thí sinh và thông tin sẽ hiển thị trong bảng danh sách thí sinh.</li>
@@ -39,6 +40,7 @@ Mục đích của dự án là tạo ra một chương trình có thể quản 
 <p>
 プロジェクトの目的は、受験者を管理することができるプログラムを作成することです。このプログラムは、受験者のリストを簡単に更新することができるように設計されています。
 </p>
+
 ### プロジェクトの説明
 <ul>
   <li>「Save」: 受験者の情報を入力し、「Save」をクリックすると、その情報が受験者リストに保存され、受験者リストのテーブルに情報が表示されます。</li>
